@@ -1,0 +1,67 @@
+name: Update Proxies
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Каждые 30 минут
+  workflow_dispatch:  # Ручной запуск
+  push:
+    branches: [ main ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Download and install Xray
+        run: |
+          wget https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          unzip Xray-linux-64.zip -d xray/
+          sudo cp xray/xray /usr/local/bin/
+          sudo chmod +x /usr/local/bin/xray
+          xray version
+          
+      - name: Run proxy manager
+        run: |
+          python proxy_manager.py
+          
+      - name: Check results
+        run: |
+          echo "=== Subscription file ==="
+          cat Githubmirror/Sub/BlankedVPN/sub.txt
+          echo ""
+          echo "=== Decoded subscription ==="
+          cat Githubmirror/Sub/BlankedVPN/sub.decoded.txt
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add Githubmirror/Sub/BlankedVPN/
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Auto update proxies $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
+          
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: proxy-subscription
+          path: |
+            Githubmirror/Sub/BlankedVPN/
+          retention-days: 7
