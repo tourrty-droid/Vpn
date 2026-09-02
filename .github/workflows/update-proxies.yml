@@ -11,12 +11,15 @@ jobs:
   update:
     runs-on: ubuntu-latest
     
+    permissions:
+      contents: write  # Даем права на запись
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Обновлено до v4
         
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # Обновлено до v5
         with:
           python-version: '3.10'
           
@@ -58,10 +61,11 @@ jobs:
             git push
           fi
           
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+      - name: Upload artifacts (optional)
+        uses: actions/upload-artifact@v4  # Обновлено до v4
         with:
           name: proxy-subscription
           path: |
             Githubmirror/Sub/BlankedVPN/
           retention-days: 7
+          compression-level: 6  # Оптимальное сжатие
