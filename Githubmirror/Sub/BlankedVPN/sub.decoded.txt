@@ -1,5 +1,2 @@
-vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?security=reality&sni=360.yandex.ru&fp=chrome&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&sid=6ba85179e30d4fc2&type=grpc#🏳️ Unknown | 89.34.90.68
-vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@178.72.167.151:443?security=reality&sni=2gis.ru&fp=firefox&pbk=54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8&sid=d45603&type=xhttp#🏳️ Unknown | 178.72.167.151
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?type=ws#🏳️ Unknown | 201.34.137.15
-vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?security=reality&sni=yastatic.net&fp=chrome&pbk=v0XQn6uvyC8q5CThcRYLer1F1OOYpZDn5NLOvDicaWg&sid=b31c2b75add2e5fa&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 81.90.17.164
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?security=none&type=ws#🏳️ Unknown | 201.24.49.233
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&sni=passport.yandex.ru&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 161.97.160.224
+vless://c80a96e8-d4a6-4785-b53b-a475b252c4ed@5.129.210.63:8443?security=reality&sni=sun6-21.userapi.com&fp=edge&pbk=Z5WItgtmxxL_umUUIPO72kSTBGjlGg3sUPigtTG6wlI&sid=ac&type=grpc#🏳️ Unknown | 5.129.210.63
