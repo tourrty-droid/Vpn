@@ -1,2 +1,1 @@
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?type=ws#🏳️ Unknown | 201.34.137.15
-vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@147.45.134.184:8443?security=reality&sni=dzen.ru&fp=firefox&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&sid=dd910a5b30&type=tcp#🏳️ Unknown | 147.45.134.184
+vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 45.195.111.108
