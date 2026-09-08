@@ -1,2 +1,2 @@
-vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 45.195.111.108
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=raw#🏳️ Unknown | 45.12.75.242
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&sni=yandex.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=raw&flow=xtls-rprx-vision#🏳️ Unknown | 150.241.101.80
+vless://4e358a16-f113-4779-8691-d88acd1d2395@201.24.117.25:19210?security=reality&sni=travel.yandex.com&fp=firefox&pbk=rvcGpldftiQ1_SD8XFNLq2L9VkU0yME0YYgTw6guHhE&sid=5b&type=raw&flow=xtls-rprx-vision#🏳️ Unknown | 201.24.117.25
