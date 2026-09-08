@@ -1,2 +1,2 @@
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?security=reality&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 193.163.203.170
-vless://2e483b48-ad25-4c80-8806-73000fd5b031@82.202.177.148:5269?security=reality&sni=max.ru&fp=qq&pbk=fFmp4fFO2wuoJKvc2_e5MF5C92H6Ei4c_AfV7toZO1c&sid=a62ae57fa46a0d6d&type=tcp#🏳️ Unknown | 82.202.177.148
+vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 45.195.111.108
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=raw#🏳️ Unknown | 45.12.75.242
