@@ -1,5 +1,1 @@
-vless://482aed33-c5ae-4e1d-bff4-8b0bdb72fb81@109.107.155.189:8443?security=reality&sni=max.ru&fp=firefox&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&sid=e7d8f0aa&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 109.107.155.189
-vless://3b6a9df3-f1d1-4bc1-94a5-0d8f2d5512b1@188.225.27.78:443?security=reality&sni=max.ru&fp=firefox&pbk=Rf2jgZShaYRQ2kh9nF79eB2KFcIdiYHwPWJyFKA_CWU&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 188.225.27.78
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?security=none&type=ws#🏳️ Unknown | 147.45.253.97
-vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?security=reality&sni=yandex.ru&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 193.163.203.253
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=raw&flow=xtls-rprx-vision#🏳️ Unknown | 95.85.224.51
+vless://fee2cdd8-55d1-4c5b-a67a-cfde8d45eed0@72.56.78.50:443?security=reality&sni=sun6-21.userapi.com&pbk=huH_8n0Dfk4iolIkzrc-qET8ySHWgZAr-i6K6lr6xSs&sid=375838bc17c0&type=grpc#🏳️ Unknown | 72.56.78.50
