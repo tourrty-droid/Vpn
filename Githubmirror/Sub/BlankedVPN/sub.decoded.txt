@@ -1,0 +1,2 @@
+vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?security=reality&sni=yandex.ru&fp=firefox&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&sid=b97e7d4582b6fa6e&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 144.31.93.231
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=raw#🏳️ Unknown | 45.12.75.242

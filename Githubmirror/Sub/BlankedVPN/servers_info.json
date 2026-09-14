@@ -1,5 +1,67 @@
 {
-  "last_update": "2026-09-13T23:58:51.041666",
-  "total_servers": 0,
-  "servers": []
+  "last_update": "2026-09-14T04:44:33.321104",
+  "total_servers": 2,
+  "servers": [
+    {
+      "type": "vless",
+      "uuid": "3710fc0f-5f0c-4b9c-a5d4-40cb419e943a",
+      "ip": "144.31.93.231",
+      "port": 443,
+      "params": {
+        "encryption": "none",
+        "flow": "xtls-rprx-vision",
+        "fp": "firefox",
+        "pbk": "WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc",
+        "security": "reality",
+        "sid": "b97e7d4582b6fa6e",
+        "sni": "yandex.ru",
+        "type": "tcp"
+      },
+      "name": "Unknown",
+      "url": "vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&security=reality&sid=b97e7d4582b6fa6e&sni=yandex.ru&type=tcp#\ud83c\uddf5\ud83c\uddf1[openproxylist.com]",
+      "security": "reality",
+      "sni": "yandex.ru",
+      "fp": "firefox",
+      "pbk": "WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc",
+      "sid": "b97e7d4582b6fa6e",
+      "flow": "xtls-rprx-vision",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "alpn": "",
+      "source": "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt",
+      "code": "UN",
+      "flag": "\ud83c\udff3\ufe0f"
+    },
+    {
+      "type": "vless",
+      "uuid": "633f424e-2b11-48da-a6b3-a849dd71456f",
+      "ip": "45.12.75.242",
+      "port": 26424,
+      "params": {
+        "encryption": "none",
+        "fp": "chrome",
+        "pbk": "l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0",
+        "security": "reality",
+        "sid": "23103e1e",
+        "sni": "ya.ru",
+        "type": "raw"
+      },
+      "name": "Unknown",
+      "url": "vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20878167",
+      "security": "reality",
+      "sni": "ya.ru",
+      "fp": "chrome",
+      "pbk": "l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0",
+      "sid": "23103e1e",
+      "flow": "",
+      "network": "raw",
+      "path": "",
+      "host": "",
+      "alpn": "",
+      "source": "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt",
+      "code": "UN",
+      "flag": "\ud83c\udff3\ufe0f"
+    }
+  ]
 }
