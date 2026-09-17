@@ -1,4 +1,1 @@
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&sni=passport.yandex.ru&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 161.97.160.224
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=raw#🏳️ Unknown | 45.12.75.242
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&sni=yandex.ru&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 144.31.50.236
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?security=none&type=ws#🏳️ Unknown | 83.147.246.153
+vless://99e5e9a0-1c6b-4cb0-805d-a810fd47eb15@31.56.189.147:443?security=reality&sni=max.ru&fp=firefox&pbk=gyVm1AWjn649wcSvTmyS12lsmecJFjm51BjUSWOjkxM&sid=35debf0dc757d053&type=grpc#🏳️ Unknown | 31.56.189.147
