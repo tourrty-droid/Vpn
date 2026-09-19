@@ -1,2 +1,3 @@
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?type=ws#🏳️ Unknown | 201.34.137.15
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&sni=passport.yandex.ru&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 161.97.160.224
+vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc#🏳️ Unknown | 152.233.43.77
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.86:443?security=reality&sni=storage.yandex.net&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 45.196.201.86
