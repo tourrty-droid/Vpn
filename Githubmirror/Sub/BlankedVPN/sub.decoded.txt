@@ -1,3 +1,1 @@
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.212:9543?type=tcp#🏳️ Unknown | 193.56.135.212
-vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@94.183.224.45:443?security=reality&sni=dzen.ru&fp=chrome&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&sid=a1b2c3d4e5f67890&type=raw&flow=xtls-rprx-vision#🏳️ Unknown | 94.183.224.45
-vless://d7cad038-0c3f-4cce-8f8a-36464aaf66c0@31.76.7.154:7443?security=reality&sni=ya.ru&fp=firefox&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 31.76.7.154
+vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@31.76.245.63:443?security=reality&sni=dzen.ru&fp=firefox&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&sid=a1b2c3d4e5f67890&type=tcp&flow=xtls-rprx-vision#🏳️ Unknown | 31.76.245.63
