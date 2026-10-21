@@ -1,5 +1,2 @@
-vless://3804296d-167f-4c1b-8734-147f80473590@188.114.96.37:443?security=tls&sni=TeLegrAm.FREEPErSiANland1.woRKERS.DEv&fp=chrome&type=ws#🏳️ Unknown | 188.114.96.37
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?security=reality&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&type=tcp#🏳️ Unknown | 23.81.36.148
-vless://d2299018-601d-488e-afd6-8f55b3f7439f@151.101.56.7:443?security=tls&sni=ssl.fastly.com&type=ws#🏳️ Unknown | 151.101.56.7
-vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?security=tls&sni=lucasjow.us.ci&fp=chrome&type=ws#🏳️ Unknown | 104.21.91.244
-vless://08ffff12-93bb-42eb-8c83-6489644a1d04@151.101.56.6:443?security=tls&sni=ssl.fastly.com&fp=firefox&type=ws#🏳️ Unknown | 151.101.56.6
+vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?security=none&type=ws#🏳️ Unknown | 91.107.190.63
+vless://30e4c878-15ca-4f53-ab32-04c60ecd3f31@172.65.90.52:8880?security=none&type=ws#🏳️ Unknown | 172.65.90.52
